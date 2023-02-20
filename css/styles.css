@@ -1,0 +1,13 @@
+@import "./_reboot.css";
+@import "./_grid.css";
+@import "./_header.css";
+@import "./_photosection.css";
+@import "./_textsection.css";
+@import "./_textsection.css";
+@import "./_foooter.css";
+@import "./_bottom-part.css";
+
+@font-face {
+  font-family: Montserrat-Arabic;
+  src: url(../fonts/Montserrat-Arabic\ Regular\ 400.otf);
+}

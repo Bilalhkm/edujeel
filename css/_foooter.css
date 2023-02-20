@@ -1,0 +1,23 @@
+hr {
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  transform: rotate(180deg);
+  height: 0px;
+  margin-top: 20px;
+}
+.copyright {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4d4d4d;
+}
+.conditions {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4d4d4d;
+  align-items: start;
+}
+.footer {
+  margin-bottom: 20px;
+}

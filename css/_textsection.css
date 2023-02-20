@@ -1,0 +1,67 @@
+.hellow {
+  margin-top: 20px;
+}
+.hellow-with {
+  margin-top: 40px;
+  max-width: 118;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 10px;
+  color: #f98914;
+}
+.edujeel-stage {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 78px;
+
+  color: #e92f1c;
+  margin-bottom: 30px;
+}
+.edujeel-stage .edujeel {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 78px;
+  /* identical to box height */
+
+  color: #f86c0d;
+}
+h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #f98914;
+  margin-right: 0px;
+  margin-bottom: 15px;
+}
+
+.polygon {
+  background: rgba(249, 137, 20, 0.6);
+  border-radius: 4px;
+  transform: rotate(-90deg);
+}
+
+.text-real {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  position: absolute;
+  width: 515px;
+  height: 56px;
+  left: 768px;
+  top: 580px;
+  text-align: right;
+}
+.right-list-txt {
+  margin-right: 45px;
+}
+.lift-list-txt li,
+.right-list-txt li {
+  min-width: 180px;
+  margin-top: 5px;
+  margin-right: -20px;
+}

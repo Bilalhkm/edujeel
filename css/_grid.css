@@ -1,0 +1,37 @@
+/* @Containers */
+body {
+  background-image: url("../img/background.png");
+  background-size: 100%;
+}
+.container {
+  width: 90%;
+  max-width: 1440px;
+  height: min-content;
+  margin: 0 auto;
+}
+/* @Column */
+/* .row {
+  display: flex;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  flex-basis: fit-content;
+  align-items: center;
+  justify-content: center;
+} */
+/* .column {
+  padding-left: 1rem;
+  padding-right: 1rem;
+} */
+/* @Justify */
+.justify-between {
+  justify-content: space-between;
+  padding-left: 0px;
+}
+/* @Aligns */
+.align-center {
+  align-items: center;
+}
+
+.margin-top {
+  margin-top: 15px;
+}
